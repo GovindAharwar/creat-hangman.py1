@@ -6,7 +6,6 @@ Created on Wed Oct 23 08:10:48 2024
 """
 
 import random
-
 # List of possible words
 word_list = ['python', 'hangman', 'development', 'computer', 'algorithm', 'datascience', 'programming']
 
